@@ -34,8 +34,8 @@ You need to have leiningen installed. This is the only prerequisite (with of cou
 
 To run the repl, you need to have Lua 5.1 installed, as well as a few dependencies:
 
-- lua json library
-- lua bit ops library
+- lua [json](http://files.luaforge.net/releases/json/json) library
+- lua [bit ops](http://bitop.luajit.org/download.html) library
 
 The two are quite standard lua libs that should be available in your distribution's repositories.
 
