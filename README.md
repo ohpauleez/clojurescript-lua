@@ -39,6 +39,8 @@ To run the repl, you need to have Lua 5.1 installed, as well as a few dependenci
 
 The two are quite standard lua libs that should be available in your distribution's repositories.
 
+If not, you can use [luarocks](http://www.luarocks.org/en)
+
 To run the REPL, issue the following command
 
 ~~~sh
